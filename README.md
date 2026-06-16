@@ -16,7 +16,7 @@ Welcome to my repository dedicated to the **30 Days of Python Challenge**! This 
 | Day | Topic | Highlights / Key Concepts | Status |
 | :---: | :--- | :--- | :---: |
 | **01** | Introduction & Environment | Setup, Python Shell, Arithmetic Ops, Data Types | ✅ Completed |
-| **02** | Variables & Built-in Functions | `type()`, `len()`, naming conventions, basic math | 🔄 Upcoming |
+| **02** | Variables & Built-in Functions | `type()`, `len()`, naming conventions, basic math | ✅ Completed |
 | **03** | Operators | Arithmetic, Comparison, Logical, Assignment operators | 🔄 Upcoming |
 | **04** | Strings | Formatting (`%`, `.format()`, `f-strings`), Slicing, Methods | 🔄 Upcoming |
 | **05** | Lists | Indexing, Modifying, List Methods, Slicing | 🔄 Upcoming |
