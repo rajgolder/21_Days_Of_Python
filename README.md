@@ -18,8 +18,8 @@ Welcome to my repository for the first **21 days of the 30 Days of Python Challe
 | 02  | Variables & Built-in Functions | ✅ Completed |
 | 03  | Operators                      | ✅ Completed |
 | 04  | Strings                        | ✅ Completed |
-| 05  | Lists                          | 🔄 Upcoming |
-| 06  | Tuples                         | 🔄 Upcoming |
+| 05  | Lists                          | ✅ Completed |
+| 06  | Tuples                         | ✅ Completed |
 | 07  | Sets                           | 🔄 Upcoming |
 | 08  | Dictionaries                   | 🔄 Upcoming |
 | 09  | Conditionals                   | 🔄 Upcoming |
@@ -81,6 +81,7 @@ During these 21 days, I learned:
 ├── Day_03
 ...
 └── Day_21
+
 ```
 
 Each folder contains the practice code for that day.
