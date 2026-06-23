@@ -21,7 +21,7 @@ Welcome to my repository for the first **21 days of the 30 Days of Python Challe
 | 05  | Lists                          | ✅ Completed |
 | 06  | Tuples                         | ✅ Completed |
 | 07  | Sets                           | ✅ Completed |
-| 08  | Dictionaries                   | 🔄 Upcoming |
+| 08  | Dictionaries                   | ✅ Completed |
 | 09  | Conditionals                   | 🔄 Upcoming |
 | 10  | Loops                          | 🔄 Upcoming |
 | 11  | Functions                      | 🔄 Upcoming |
