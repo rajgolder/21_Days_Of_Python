@@ -23,7 +23,7 @@ Welcome to my repository for the first **21 days of the 30 Days of Python Challe
 | 07  | Sets                           | ✅ Completed |
 | 08  | Dictionaries                   | ✅ Completed |
 | 09  | Conditionals                   | ✅ Completed |
-| 10  | Loops                          | 🔄 Upcoming |
+| 10  | Loops                          | ✅ Completed |
 | 11  | Functions                      | 🔄 Upcoming |
 | 12  | Modules                        | 🔄 Upcoming |
 | 13  | List Comprehensions            | 🔄 Upcoming |
