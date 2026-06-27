@@ -25,7 +25,7 @@ Welcome to my repository for the first **21 days of the 30 Days of Python Challe
 | 09  | Conditionals                   | ✅ Completed |
 | 10  | Loops                          | ✅ Completed |
 | 11  | Functions                      | ✅ Completed |
-| 12  | Modules                        | 🔄 Upcoming |
+| 12  | Modules                        | ✅ Completed |
 | 13  | List Comprehensions            | 🔄 Upcoming |
 | 14  | Higher Order Functions         | 🔄 Upcoming |
 | 15  | Python Type Errors             | 🔄 Upcoming |
