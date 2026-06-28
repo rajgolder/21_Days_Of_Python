@@ -83,7 +83,7 @@ During these 21 days, I learned:
 ├── Day_03_Exercise
 ...
 └── Day_21
-├── Day_021_Exercise
+├── Day_21_Exercise
 
 ```
 
