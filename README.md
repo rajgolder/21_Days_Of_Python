@@ -76,14 +76,17 @@ During these 21 days, I learned:
 
 ```text
 ├── README.md
-├── Day_01
-├── Day_02
-├── Day_02_Exercise
-├── Day_03
-├── Day_03_Exercise
+├── Day_01.py
+├── Day_02.md
+├── Day_02.py
+├── Day_02_Exercise.py
+├── Day_03.md
+├── Day_03.py
+├── Day_03_Exercise.py
 ...
-└── Day_21
-├── Day_021_Exercise
+├── Day_21.md
+└── Day_21.py
+├── Day_21_Exercise.py
 
 ```
 
