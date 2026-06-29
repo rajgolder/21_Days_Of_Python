@@ -84,9 +84,8 @@ During these 21 days, I learned:
 ├── Day_03.py
 ├── Day_03_Exercise.py
 ...
-├── Day_21.md
-└── Day_21.py
-├── Day_21_Exercise.py
+└── Day_21
+├── Day_021_Exercise
 
 ```
 
