@@ -27,7 +27,7 @@ Welcome to my repository for the first **21 days of the 30 Days of Python Challe
 | 11  | Functions                      | ✅ Completed |
 | 12  | Modules                        | ✅ Completed |
 | 13  | List Comprehensions            | ✅ Completed |
-| 14  | Higher Order Functions         | 🔄 Upcoming |
+| 14  | Higher Order Functions         | ✅ Completed |
 | 15  | Python Type Errors             | 🔄 Upcoming |
 | 16  | Date & Time                    | 🔄 Upcoming |
 | 17  | Exception Handling             | 🔄 Upcoming |
@@ -84,8 +84,9 @@ During these 21 days, I learned:
 ├── Day_03.py
 ├── Day_03_Exercise.py
 ...
-└── Day_21
-├── Day_021_Exercise
+├── Day_21.md
+└── Day_21.py
+├── Day_21_Exercise.py
 
 ```
 
