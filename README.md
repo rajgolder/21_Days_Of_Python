@@ -30,7 +30,7 @@ Welcome to my repository for the first **21 days of the 30 Days of Python Challe
 | 14  | Higher Order Functions         | ✅ Completed |
 | 15  | Python Type Errors             | ✅ Completed |
 | 16  | Date & Time                    | ✅ Completed |
-| 17  | Exception Handling             | 🔄 Upcoming |
+| 17  | Exception Handling             | ✅ Completed |
 | 18  | Regular Expressions            | 🔄 Upcoming |
 | 19  | File Handling                  | 🔄 Upcoming |
 | 20  | Python Package Manager         | 🔄 Upcoming |
